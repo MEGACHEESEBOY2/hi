@@ -1,4 +1,4 @@
-rom three import *
+From three import *
 from geometry import *
 from workbench import *
 from browser import *
